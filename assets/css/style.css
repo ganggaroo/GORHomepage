@@ -2289,3 +2289,10 @@ section {
 .whiteBg {
   background-color: whitesmoke;
 }
+
+.kakaotalk-chat {
+  position: fixed;
+  left: 1%;
+  bottom: 10px;
+  z-index: 99999;
+}
