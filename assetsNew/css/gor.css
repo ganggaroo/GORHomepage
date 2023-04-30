@@ -1,0 +1,111 @@
+
+main {
+    margin-top: 80px;
+}
+
+
+.opt-online-seller {
+    background-image: url(../img/opt-carousel/opt-onlineseller.jpg);
+    background-repeat: no-repeat;
+    background-position: 0% 0%;
+    background-size: 100vh 100%;
+}
+
+
+.opt-distributor {
+    background-image: url(../img/opt-carousel/opt-distributor.jpg);
+    background-repeat: no-repeat;
+    background-position: 0% 0%;
+    background-size: 100vh 100%;
+}
+
+/*--------------------------------------------------------------
+# Pricing
+--------------------------------------------------------------*/
+.pricing-area {
+    background: rgba(0, 0, 0, 0.02) none repeat scroll 0 0;
+}
+
+.pri_table_list1 {
+    text-align: center;
+    transition: all 0.4s ease 0s;
+    background: #fff;
+}
+
+.pri_table_list1 h3 span {
+    font-size: 16px;
+}
+
+.pri_table_list1 ol {
+    border-top: 1px solid #ccc;
+}
+
+.pri_table_list1 ol li {
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    text-align: left;
+    color: #666;
+    padding: 12px 15px;
+    position: relative;
+    display: flex;
+    align-items: flex-start;
+}
+
+.pri_table_list1 li.check {
+    font-weight: 600;
+}
+
+.pri_table_list1 li.check i {
+    color: #3EC1D5;
+    line-height: 0;
+    font-size: 24px;
+    margin-right: 5px;
+}
+
+.pri_table_list1 li.cross {
+    text-decoration: line-through;
+    color: #999;
+}
+
+.pri_table_list1 li.cross i {
+    color: #999;
+    line-height: 0;
+    font-size: 24px;
+    margin-right: 5px;
+}
+
+.pri_table_list1 button {
+    background: #444 none repeat scroll 0 0;
+    border: 1px solid #444;
+    color: #fff;
+    margin-bottom: 25px;
+    padding: 10px 35px;
+    text-transform: uppercase;
+    transition: all 0.4s ease 0s;
+    border-radius: 30px;
+}
+
+.pri_table_list1>h3 {
+    color: #333;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 25px;
+    padding: 30px 0 20px;
+    text-transform: uppercase;
+    transition: all 0.4s ease 0s;
+}
+
+.pri_table_list1 ol {
+    list-style: outside none none;
+    margin: 0;
+    padding: 0 0 0px;
+}
+
+
+
+.pr {
+    font-size: larger;
+    font-weight: bold;
+    color: #0a58ca;
+}
